@@ -41,4 +41,11 @@ form img {
   color: #fff;
   margin-top: 10px;
 }
-
+.portafolio{
+  max-width:800px;
+  margin:auto;
+  text-align:center;
+}
+.portafolio img{
+  width:80%;
+}
