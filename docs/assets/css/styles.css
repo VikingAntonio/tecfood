@@ -42,10 +42,10 @@ form img {
   margin-top: 10px;
 }
 .portafolio{
-  max-width:800px;
+  max-width:1200px;
   margin:auto;
   text-align:center;
 }
 .portafolio img{
-  width:80%;
+  width:100%;
 }
