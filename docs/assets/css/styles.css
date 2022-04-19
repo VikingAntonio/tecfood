@@ -58,11 +58,14 @@ form img {
 }
 .presentacionBoton a{
   text-decoration:none;
-  color:#000;
+  color:#fff;
   
 }
 .presentacionBoton button{
   padding:10px 35px;
   background:#F2C744;
+  border:none;
+  font-weight:900;
+  border-radius:25px;
   
 }
