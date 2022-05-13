@@ -70,3 +70,15 @@ form img {
   font-size:23px;
   
 }
+
+.audios{
+  margin: auto;
+  max-width: 800px;
+}
+.audios h3{
+  text-align: center;
+  color: #F2C744;
+}
+.audios audio{
+  width: 100%;
+}
