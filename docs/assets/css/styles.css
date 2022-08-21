@@ -108,7 +108,7 @@ form img {
   height: 300px;
   margin:auto;
   text-align:center;
-  background: url("tecfoodPost.png");
+  background: url("./tecfoodPost.png");
   background-size: cover;
   background-position: center;
 }
